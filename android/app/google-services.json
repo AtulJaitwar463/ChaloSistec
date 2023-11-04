@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346515194083",
+    "project_id": "smart-driving-64027",
+    "storage_bucket": "smart-driving-64027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346515194083:android:3e48d423e2446e1ec045d6",
+        "android_client_info": {
+          "package_name": "com.smart.driving"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIsO5I2OqiPA_s__iYS2zsvBkm37Gncc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
