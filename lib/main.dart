@@ -1,5 +1,6 @@
 import 'package:driving/pages/homepage.dart';
 import 'package:driving/provider/auth_provider.dart';
+import 'package:driving/screen/splash_screen.dart';
 
 import 'package:driving/screen/welcome_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -32,7 +33,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: WelcomeScreen(),
+        home: SplashScren(),
       ),
     );
   }

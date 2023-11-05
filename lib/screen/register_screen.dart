@@ -42,12 +42,12 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   Container(
                     width: 200,
                     height: 200,
-                    padding: const EdgeInsets.all(30.0),
+                    padding: const EdgeInsets.all(40.0),
                     decoration: BoxDecoration(
                       shape: BoxShape.circle,
                       color: Colors.orange.shade50,
                     ),
-                    child: Image.asset("assets/auth1.png"),
+                    child: Image.asset("assets/otp6.png"),
                   ),
                   const SizedBox(height: 0,),
 
